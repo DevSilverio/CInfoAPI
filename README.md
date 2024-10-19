@@ -1,7 +1,7 @@
 ```markdown
 # CInfoAPI
 
-A `CInfoAPI` é uma API simples para armazenar informações de clientes em um banco de dados MongoDB. Esta API permite que você adicione(, recupere, atualize e exclua) informações de clientes de maneira fácil e eficiente.
+A `CInfoAPI` é uma API simples para armazenar informações de clientes em um banco de dados MongoDB. Esta API permite que você adicione, recupere, atualize e exclua informações de clientes de maneira fácil e eficiente.
 
 ## Sumário
 
@@ -144,10 +144,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou envi
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 ```
 
-### Como Adicionar a Documentação ao seu `README.md`
-
-1. Abra o arquivo `README.md` no seu projeto.
-2. Cole o conteúdo da documentação acima no arquivo.
-3. Salve as alterações.
-
-Essa documentação oferece um guia completo para os usuários entenderem como utilizar sua API, como configurá-la, e como contribuir para o projeto. Se houver mais detalhes específicos sobre sua API que você gostaria de incluir, sinta-se à vontade para personalizar conforme necessário!
+Essa estrutura proporciona um guia claro e detalhado para os usuários que desejam utilizar sua API, configurá-la e contribuir para o projeto. Se precisar de mais informações ou modificações, fique à vontade para pedir!
